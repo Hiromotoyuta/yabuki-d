@@ -22,5 +22,4 @@ foreach ($result as $row) {
 }
 ?>
   </body>
-  
 </html>
